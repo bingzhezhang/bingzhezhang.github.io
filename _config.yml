@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Bingzhe Zhang（张秉哲）"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Keep doing"
   location         : #"Earth"
   employer         : #"Red Brick University"
