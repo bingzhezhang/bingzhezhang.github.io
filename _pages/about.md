@@ -13,6 +13,6 @@ I was a visiting phd student at the [Department of Civil Engineering](https://ww
 
 My detailed Curriculum Vitae can be found [here](../assets/Bingzhe_Zhang.pdf).
 
-News
+Current
 ------
 I am currently on the 2023-2024 academic job market, looking for postdoctoral positions in infrastructural hazard resilience assessment related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.
