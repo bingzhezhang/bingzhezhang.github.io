@@ -1,7 +1,7 @@
 ---
 title: "Dr. Bingzhe Zhang Successfully Defends Doctoral Dissertation!"
 excerpt: "Bingzhe Zhang successfully defended his doctoral dissertation titled "Study on seismic performance and influencing factors of laminated rubber bearing supported bridges based on deep neural networks" at Southeast University, Nanjing. The members of the dissertation committee included Professor Qiao Huang, Professor Wen Xiong, Professor Jingquan Wang, Professor Zhenghua Zhou, and Associate Professor Ming Yang.<br/><img src='/images/500x300.png'>"
-collection: News
+collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
