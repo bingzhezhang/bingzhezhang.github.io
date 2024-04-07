@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil Engineering(Structural Engineering), Southeast University, 2024
+* Visiting Ph.D student in Bridge Seismic and Machine Learning Application, McMaster University, 2022.3-2023.9
+* M.S. in Civil Engineering(Structural Engineering), China Agricultural University, 2018
+* B.S. in Civil Engineering, China Agricultural University, 2016
 
-Work experience
+Intern experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2023: Research Assistant
+  * McMaster University
+  * Duties includes: Constructing the bridge aging data based on an existing chloride ion erosion model. Investigating the impact of aging characteristic on the long-term seismic performance.
+  * Supervisor: Professor Cancan Yang
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Research Institute of Highway Ministry of Transport 
+  * Duties included: Developed the 3D model and performed FEA to investigate bridge seismic response by SAP2000. Designed and completed the experimental study of laminated rubber bearing to verify the finite element results.
+  * Supervisor: Professor Kehai Wang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Intern structural engineer
+  * China IPPR International Engineering CO., LTD. 
+  * Duties included:  Participated in the structural design of a hospital, especially coordinated with the architectural designer to complete 
+structural design of the stairs.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages: Python, MATLAB 
+* Technological Tools: ANSYS, OpenSEES, SAP2000, AutoCAD 
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
+ 
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Merits Student Award, Southeast University, 2019
+* Scholarship for Academic Excellence, China Agricultural University, 2015
