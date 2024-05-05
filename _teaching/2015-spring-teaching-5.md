@@ -1,4 +1,3 @@
-
 ---
 title: "Academic events"
 excerpt: "<br/><img src='/images/layout_5.png'>"
