@@ -1,6 +1,7 @@
 ---
-title: "Project 2 Consulting project on seismic performance of the Shanxi Linyi Yellow River Bridge (composite beam bridge with tall piers in soil liquefaction conditions)"
-excerpt: "<br/><img src='/images/layout_2.png'>"
+title: "Research on seismic performance of laminated rubber bearings (Regional transportation technology project in Inner Mongolia Autonomous Region), 2020-2022.
+Research on seismic mechanism of laminated rubber bearings for small-to-medium span beam bridges (Regional transportation technology project in Shanxi province), 2018-2020."
+excerpt: "<br/><img src='/images/layout_4.png'>"
 collection: teaching
 ---
 
