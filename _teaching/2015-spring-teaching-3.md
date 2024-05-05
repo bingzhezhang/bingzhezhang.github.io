@@ -1,6 +1,6 @@
 ---
-title: "Project 2 Consulting project on seismic performance of the Shanxi Linyi Yellow River Bridge (composite beam bridge with tall piers in soil liquefaction conditions)"
-excerpt: "<br/><img src='/images/layout_2.png'>"
+title: "Project 3 Consulting project on seismic performance of the RC viaduct at Hohhot Airport, Inner Mongolia (urban expressway)"
+excerpt: "<br/><img src='/images/layout_3.png'>"
 collection: teaching
 ---
 
