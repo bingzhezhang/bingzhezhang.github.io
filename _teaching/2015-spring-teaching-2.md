@@ -1,11 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Project 2 Consulting project on seismic performance of the Shanxi Linyi Yellow River Bridge (composite beam bridge with tall piers in soil liquefaction conditions)"
+excerpt: "<br/><img src='/images/layout_2.png'>"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
