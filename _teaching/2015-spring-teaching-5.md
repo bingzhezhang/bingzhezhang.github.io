@@ -1,6 +1,7 @@
+
 ---
-title: "Project 2 Consulting project on seismic performance of the Shanxi Linyi Yellow River Bridge (composite beam bridge with tall piers in soil liquefaction conditions)"
-excerpt: "<br/><img src='/images/layout_2.png'>"
+title: "Academic events"
+excerpt: "<br/><img src='/images/layout_5.png'>"
 collection: teaching
 ---
 
