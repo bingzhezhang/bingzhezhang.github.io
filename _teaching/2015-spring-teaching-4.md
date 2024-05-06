@@ -1,11 +1,11 @@
 ---
-title: "Research on seismic mechanism of laminated rubber bearings for small-to-medium span beam bridges"
+title: "Regional transportation technology project in Shanxi DOT and Inner Mongolia DOT"
 collection: teaching
-type: "Regional transportation technology project in Shanxi province"
+type: "Consulting project"
 permalink: /teaching/2015-spring-teaching-4
 venue: "Research Institute of Highway, Ministry of Transport "
 date: 2019-06-01
-location: "Shanxi, China"
+location: "China"
 ---
 
 ![Project_4](/images/layout_4.png)
