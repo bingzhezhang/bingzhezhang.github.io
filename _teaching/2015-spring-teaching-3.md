@@ -8,6 +8,5 @@ date: 2020-06-01
 location: "Inner Mongolia, China"
 ---
 
-The main contents are as follows:
 ![Project_3](/images/layout_3.png)
 
