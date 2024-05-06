@@ -1,16 +1,12 @@
 ---
-title: "Project 1 Consulting project on seismic performance of highway bridges in the Tibetan region of Sichuan province"
-excerpt: "<br/><img src='/images/layout_1.png'>"
+title: "Seismic performance of highway bridges in the Tibetan region of Sichuan province"
 collection: teaching
+type: "Consulting project"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Research Institute of Highway, Ministry of Transport "
+date: 2018-09-01
+location: "Sichuan, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The main contents are as follows:
+![Project_1](/images/layout_1.png)
