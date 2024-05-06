@@ -1,16 +1,12 @@
 ---
-title: "Project 2 Consulting project on seismic performance of the Shanxi Linyi Yellow River Bridge (composite beam bridge with tall piers in soil liquefaction conditions)"
-excerpt: "<br/><img src='/images/layout_2.png'>"
+title: "Seismic performance of the Shanxi Linyi Yellow River Bridge (composite beam bridge with tall piers in soil liquefaction conditions)"
 collection: teaching
+type: "Consulting project"
+permalink: /teaching/2015-spring-teaching-2
+venue: "Research Institute of Highway, Ministry of Transport "
+date: 2019-06-01
+location: "Shanxi, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The main contents are as follows:
+![Project_2](/images/layout_2.png)
