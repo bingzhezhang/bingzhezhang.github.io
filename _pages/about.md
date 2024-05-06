@@ -11,7 +11,7 @@ I am a phd student studying in the [School of Transportation](https://tc.seu.edu
 
 I was a visiting phd student at the [Department of Civil Engineering](https://www.eng.mcmaster.ca/civil/) in [McMaster University](https://www.mcmaster.ca/), under the supervision of [Dr. Cancan Yang](https://www.eng.mcmaster.ca/civil/faculty/dr-cancan-yang/). In addition, I received my bachelor’s and master’s degree in Civil Engineering from [China Agricultural University](http://en.cau.edu.cn/). 
 
-My detailed Curriculum Vitae can be found [here](../assets/Bingzhe_Zhang.pdf).
+My detailed Curriculum Vitae can be found [here](../assets/Bingzhe_Zhang.pdf). Please contact me via [zbzseu@foxmail.com].
 
 Current
 ------
