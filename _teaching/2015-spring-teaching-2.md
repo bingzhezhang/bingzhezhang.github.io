@@ -8,5 +8,4 @@ date: 2019-06-01
 location: "Shanxi, China"
 ---
 
-The main contents are as follows:
 ![Project_2](/images/layout_2.png)
