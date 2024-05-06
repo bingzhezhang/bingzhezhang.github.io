@@ -8,5 +8,4 @@ date: 2018-09-01
 location: "Sichuan, China"
 ---
 
-The main contents are as follows:
 ![Project_1](/images/layout_1.png)
