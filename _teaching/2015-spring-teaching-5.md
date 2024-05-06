@@ -8,5 +8,4 @@ date: 2021-06-01
 location: "Beijing, China"
 ---
 
-The main contents are as follows:
 ![Project_5](/images/layout_5.png)
