@@ -1,5 +1,5 @@
 ---
-title: "Regional transportation technology project in Shanxi DOT and Inner Mongolia DOT"
+title: "Regional transportation technology projects in Shanxi DOT and Inner Mongolia DOT"
 collection: teaching
 type: "Consulting project"
 permalink: /teaching/2015-spring-teaching-4
