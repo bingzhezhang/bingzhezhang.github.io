@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a phd student studying in the [School of Transportation](https://tc.seu.edu.cn/jt_en/15/65/c7958a71013/page.psp), [Southeast University](https://www.seu.edu.cn/english/), supervised by Dr. Kehai Wang. My research experience focuses on the areas of experimental study of seismic isolation systems, optimization of seismic performance on structures, and deterioration assessment of aged bridges. In addition, I have experience in using deep learning techniques to improve transportation infrastructure resilience under multi-hazard impact. I am interested in all technologies that are innovative and life-changing.
+I am a phd student studying in the [School of Transportation](https://tc.seu.edu.cn/jt_en/15/65/c7958a71013/page.psp), [Southeast University](https://www.seu.edu.cn/english/), supervised by Dr. Kehai Wang. My research experience focuses on the areas of Experimental Study of Seismic Isolation Systems, Optimization of Seismic Performance on Structures, and Deterioration Assessment of Aged Bridges. In addition, I have experience in using Deep Learning techniques to improve transportation infrastructure resilience under multi-hazard impact. I am interested in all technologies that are innovative and life-changing.
 
 I was a visiting phd student at the [Department of Civil Engineering](https://www.eng.mcmaster.ca/civil/) in [McMaster University](https://www.mcmaster.ca/), under the supervision of [Dr. Cancan Yang](https://www.eng.mcmaster.ca/civil/faculty/dr-cancan-yang/). In addition, I received my bachelor’s and master’s degree in Civil Engineering from [China Agricultural University](http://en.cau.edu.cn/). 
 
