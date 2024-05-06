@@ -1,7 +1,7 @@
 ---
-title: "Research on seismic mechanism of laminated rubber bearings for small-to-medium span beam bridges (Regional transportation technology project in Shanxi province)"
+title: "Research on seismic mechanism of laminated rubber bearings for small-to-medium span beam bridges"
 collection: teaching
-type: "Consulting project"
+type: "Regional transportation technology project in Shanxi province"
 permalink: /teaching/2015-spring-teaching-4
 venue: "Research Institute of Highway, Ministry of Transport "
 date: 2019-06-01
