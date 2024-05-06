@@ -1,16 +1,13 @@
 ---
-title: "Project 3 Consulting project on seismic performance of the RC viaduct at Hohhot Airport, Inner Mongolia (urban expressway)"
-excerpt: "<br/><img src='/images/layout_3.png'>"
+title: "Seismic performance of the RC viaduct at Hohhot Airport, Inner Mongolia (urban expressway)"
 collection: teaching
+type: "Consulting project"
+permalink: /teaching/2015-spring-teaching-3
+venue: "Research Institute of Highway, Ministry of Transport "
+date: 2020-06-01
+location: "Inner Mongolia, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The main contents are as follows:
+![Project_3](/images/layout_3.png)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
