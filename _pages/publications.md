@@ -7,6 +7,8 @@ author_profile: true
 
 Journal paper:
 ------
+[4] Zhang, Bingzhe, et al. "Seismic damage assessment of bonded versus unbonded laminated rubber bearings: A deep learning perspective." Engineering Structures, (Accepted).
+
 [3] Zhang, Bingzhe, et al. "Experimental and Seismic Response Study of Laminated Rubber Bearings Considering Different Friction Interfaces." Buildings 12.10 (2022): 1526.
 
 [2] Guo, Weizuo, et al. "Research on seismic excitation direction of double-deck curved bridges: A probabilistic method based on the random forest algorithm." Structures. Vol. 39. Elsevier, 2022.
