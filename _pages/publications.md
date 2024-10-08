@@ -7,7 +7,9 @@ author_profile: true
 
 Journal paper:
 ------
-[4] Zhang, Bingzhe, et al. "Seismic damage assessment of bonded versus unbonded laminated rubber bearings: A deep learning perspective." Engineering Structures, (Accepted).
+[5] Zhang, Bingzhe, et al. "Life-cycle seismic performance analysis of an offshore small-to-medium span bridge based on interpretable machine learning." Structures, (Accepted).
+
+[4] Zhang, Bingzhe, et al. "Seismic damage assessment of bonded versus unbonded laminated rubber bearings: A deep learning perspective." Engineering Structures, 2024, 321: 118996.
 
 [3] Zhang, Bingzhe, et al. "Experimental and Seismic Response Study of Laminated Rubber Bearings Considering Different Friction Interfaces." Buildings 12.10 (2022): 1526.
 
