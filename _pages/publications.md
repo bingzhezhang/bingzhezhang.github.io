@@ -7,7 +7,9 @@ author_profile: true
 
 Journal paper:
 ------
-[5] Zhang, Bingzhe, et al. "Life-cycle seismic performance analysis of an offshore small-to-medium span bridge based on interpretable machine learning." Structures, (Accepted).
+[6] Zhang, Bingzhe, et al. "Enhancing seismic performance of highway bridges group with laminated rubber bearings via artificial neural networks and multi-objective genetic algorithm." Structures, 2025, 74: 108470.
+
+[5] Zhang, Bingzhe, et al. "Life-cycle seismic performance analysis of an offshore small-to-medium span bridge based on interpretable machine learning." Structures, 2024, 70: 107511.
 
 [4] Zhang, Bingzhe, et al. "Seismic damage assessment of bonded versus unbonded laminated rubber bearings: A deep learning perspective." Engineering Structures, 2024, 321: 118996.
 
