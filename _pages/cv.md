@@ -12,7 +12,7 @@ redirect_from:
 Education
 ------
 * Ph.D. in Civil Engineering (Bridge Engineering), Southeast University, 2024
-* Visiting PhD student in Civil Engineering Department, McMaster University, 2022 - 2023
+* Visiting Ph.D. student in Civil Engineering Department, McMaster University, 2022 - 2023
 * M.S. in Civil Engineering (Structural Engineering), China Agricultural University, 2018
 * B.S. in Civil Engineering, China Agricultural University, 2016
 
