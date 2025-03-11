@@ -25,7 +25,7 @@ Research Experience
   * Southeast University
 
 * 2018.09 - 2020.06: Research Assistant
-  * Research Institute of Highway, Ministry of Transport
+  * Research Institute of Highway
 
 Teaching Experience
 ------
