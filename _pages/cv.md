@@ -32,7 +32,7 @@ Teaching Experience
 * Structural Dynamics (Exercise), Summer semester 2025
   * Universität Siegen
 
-* Steel Structure Theory and Application (Tutorial), Fall 2016
+* Steel Structure Theory and Design (Tutorial), Fall 2016
   * China Agricultural University
 
 Internship Experience
