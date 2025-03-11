@@ -15,4 +15,4 @@ I’m always excited to explore new ideas, collaborate with like-minded research
 
 News
 ------
-In March 2024, at Southeast University in Nanjing, Bingzhe Zhang successfully defended his doctoral dissertation titled "Study on Seismic Performance and Influencing Factors of Laminated Rubber Bearing-Supported Bridges Based on Deep Neural Networks." 
+[2024-03, Nanjing] Bingzhe Zhang successfully defended his doctoral dissertation titled "Study on Seismic Performance and Influencing Factors of Laminated Rubber Bearing-Supported Bridges Based on Deep Neural Networks." 
