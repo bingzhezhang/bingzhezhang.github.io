@@ -34,13 +34,13 @@ Teaching Experience
 
 Internship Experience
 ------
-* 2024.11 - 2025.01: Intern On-site engineer
+* 2024.11 - 2025.01: Intern On-site Engineer
   * CCCC Second Highway Engineering Co., Ltd. 
   * Duties included:
     * Conduct on-site construction quality inspections.
     * Oversee the writing of engineering patents and scientific papers.
 
-* 2017.06 - 2017.08: Intern Structural engineer
+* 2017.06 - 2017.08: Intern Structural Engineer
   * China IPPR International Engineering CO., LTD. 
   * Duties included:
     * Participate in the structural design of a hospital.
