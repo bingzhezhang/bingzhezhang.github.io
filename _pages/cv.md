@@ -12,7 +12,7 @@ redirect_from:
 Education
 ------
 * Ph.D in Civil Engineering (Structural Engineering), Southeast University, 2024
-* Visiting Ph.D student in Civil Engineering Department, McMaster University, 2022.03-2023.09
+* Visiting Ph.D student in Civil Engineering Department, McMaster University, 2022 - 2023
 * M.S. in Civil Engineering (Structural Engineering), China Agricultural University, 2018
 * B.S. in Civil Engineering, China Agricultural University, 2016
 
@@ -26,7 +26,7 @@ Research experience
 
 Internship experience
 ------
-* 2024.11 - 2025.01: Intern on-site engineers
+* 2024.11 - 2025.01: Intern on-site engineer
   * CCCC Second Highway Engineering Co., Ltd. 
   * Duties included:
     * Conduct on-site construction quality inspections.
