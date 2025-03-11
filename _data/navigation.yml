@@ -9,8 +9,8 @@ main:
   - title: "Project"
     url: /teaching/    
     
-  - title: "News"
-    url: /portfolio/
+ # - title: "News"
+ #   url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
