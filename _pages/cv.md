@@ -28,24 +28,22 @@ Internship experience
 ------
 * 11/2024-01/2025: Intern on-site engineers
   * CCCC Second Highway Engineering Co., Ltd. 
-  * Duties:
+  * Duties included:
     * Conduct on-site construction quality inspections
     * Oversee the writing of engineering patents and scientific papers
-    * Create temperature measurement drawings.
 
 * 05/2017-08/2017: Intern structural engineer
   * China IPPR International Engineering CO., LTD. 
-  * Duties included:  Participate in the structural design of a hospital, especially coordinate with the architectural designer to complete 
-structural design of the stairs.
+  * Duties included:
+    * Participate in the structural design of a hospital, 
+    * Coordinate with the architectural designer to complete structural design of the stairs.
 
 Teaching experience
 ------
-* Sommersemester 2025: Graduate Teaching Assistant
-  * Course: Structural Dynamics
+* Structural Dynamics, Sommersemester 2025 (Exercise)
   * Universität Siegen
 
-* Fall 2016: Graduate Teaching Assistant
-  * Course: Steel Structure Theory and Application
+* Steel Structure Theory and Application, Fall 2016 (Tutorial)
   * China Agricultural University
 
 Skills
