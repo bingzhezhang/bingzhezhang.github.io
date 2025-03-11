@@ -24,5 +24,5 @@ Conference paper:
 [1] Zhang, B., Wang, K. "Seismic response analysis of small-to-medium-span bridges considering aging plate rubber bearing." The 17th World Conference on Earthquake Engineering. Sendai: International Association for Earthquake Engineering. 2019. 
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my latest articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
