@@ -19,35 +19,32 @@ Education
 Research experience
 ------
 * 2022.3-2023.9: Research Assistant
-  * Research Institute of Highway Ministry of Transport 
+  * Southeast University 
   * Duties included: Developed the 3D model and performed FEA to investigate bridge seismic response by SAP2000. Designed and completed the experimental study of laminated rubber bearing to verify the finite element results.
-  * Supervisor: Professor Kehai Wang
 
 * 2018.9-2020.6: Research Assistant
   * Research Institute of Highway Ministry of Transport 
   * Duties included: Developed the 3D model and performed FEA to investigate bridge seismic response by SAP2000. Designed and completed the experimental study of laminated rubber bearing to verify the finite element results.
-  * Supervisor: Professor Kehai Wang
 
 Internship experience
 ------
-* Summer 2017: Intern structural engineer
-  * China IPPR International Engineering CO., LTD. 
-  * Duties included:  Participated in the structural design of a hospital, especially coordinated with the architectural designer to complete 
-structural design of the stairs.
+* 11/2024-01/2025: On-site engineers
+  * CCCC Second Highway Engineering Co., Ltd. 
+  * Duties included:  Conduct on-site construction quality inspections, oversee the writing of engineering patents and scientific papers, and create temperature measurement drawings.
 
 * 05/2017-08/2017: Intern structural engineer
   * China IPPR International Engineering CO., LTD. 
-  * Duties included:  Participated in the structural design of a hospital, especially coordinated with the architectural designer to complete 
+  * Duties included:  Participate in the structural design of a hospital, especially coordinate with the architectural designer to complete 
 structural design of the stairs.
 
 Teaching experience
 ------
 * Sommersemester 2025: Graduate Teaching Assistant
-  * Structural Dynamics
+  * Course: Structural Dynamics
   * Universität Siegen
 
 * Fall 2016: Graduate Teaching Assistant
-  * Steel Structure Theory and Application
+  * Course: Steel Structure Theory and Application
   * China Agricultural University
 
 Skills
