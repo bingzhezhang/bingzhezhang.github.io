@@ -29,7 +29,7 @@ Research Experience
 
 Teaching Experience
 ------
-* Structural Dynamics, Sommersemester 2025 (Exercise)
+* Structural Dynamics, Summer semester 2025 (Exercise)
   * Universität Siegen
 
 * Steel Structure Theory and Application, Fall 2016 (Tutorial)
