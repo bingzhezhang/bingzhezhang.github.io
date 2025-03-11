@@ -18,19 +18,20 @@ Education
 
 Research experience
 ------
-* 2022.3-2023.9: Research Assistant
+* 2020.9-2022.2: Research Assistant
   * Southeast University 
-  * Duties included: Developed the 3D model and performed FEA to investigate bridge seismic response by SAP2000. Designed and completed the experimental study of laminated rubber bearing to verify the finite element results.
 
 * 2018.9-2020.6: Research Assistant
-  * Research Institute of Highway Ministry of Transport 
-  * Duties included: Developed the 3D model and performed FEA to investigate bridge seismic response by SAP2000. Designed and completed the experimental study of laminated rubber bearing to verify the finite element results.
+  * Research Institute of Highway, Ministry of Transport 
 
 Internship experience
 ------
-* 11/2024-01/2025: On-site engineers
+* 11/2024-01/2025: Intern on-site engineers
   * CCCC Second Highway Engineering Co., Ltd. 
-  * Duties included:  Conduct on-site construction quality inspections, oversee the writing of engineering patents and scientific papers, and create temperature measurement drawings.
+  * Duties:
+    * Conduct on-site construction quality inspections
+    * Oversee the writing of engineering patents and scientific papers
+    * Create temperature measurement drawings.
 
 * 05/2017-08/2017: Intern structural engineer
   * China IPPR International Engineering CO., LTD. 
