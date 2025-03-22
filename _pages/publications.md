@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my latest articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
+{% endif %}
+
 Journal paper:
 ------
 [1] Zhang, Bingzhe, et al. "Enhancing seismic performance of highway bridges group with laminated rubber bearings via artificial neural networks and multi-objective genetic algorithm." Structures, 2025, 74: 108470.
@@ -38,9 +42,3 @@ Journal paper in Chinese:
 [5] 张耀宽, 张秉哲, 王克海等. 考虑滑移效应的板式橡胶支座力学性能试验研究[J]. 防灾科技学院学报, 2022, 24(02): 43-48.
 
 [6] 张秉哲, 刘晶, 马红菊, 庄金钊. 爆破振动对建筑物的影响研究, 北京力学会第二十三届学术年会会议论文集, 2017.
-
-
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my latest articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
-{% endif %}
