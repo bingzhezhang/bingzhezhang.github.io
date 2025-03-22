@@ -40,6 +40,7 @@ Journal paper in Chinese:
 [6] 张秉哲, 刘晶, 马红菊, 庄金钊. 爆破振动对建筑物的影响研究, 北京力学会第二十三届学术年会会议论文集, 2017.
 
 
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my latest articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
