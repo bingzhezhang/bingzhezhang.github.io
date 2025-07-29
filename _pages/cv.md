@@ -22,32 +22,33 @@ Research Experience
   * Universität Siegen
 
 * 2020.09 - 2022.02: Research Assistant
-  * Southeast University
+  * Southeast University, Research Institute of Highway
 
-* 2018.09 - 2020.06: Research Assistant
+* 2018.09 - 2020.08: Research Assistant
   * Research Institute of Highway
 
 Teaching Experience
 ------
-* Structural Dynamics (Exercise), Summer semester 2025
+* Structural Dynamics and Python Coding (Exercise), Summer semester 2025
   * Universität Siegen
 
 * Steel Structure Theory and Design (Tutorial), Fall 2016
   * China Agricultural University
 
-Internship Experience
+Professional Experience
 ------
-* 2024.11 - 2025.01: Intern On-site Engineer
+* 2024.11 - 2025.01: On-site Construction Engineer
   * CCCC Second Highway Engineering Co., Ltd. 
   * Duties included:
-    * Conduct on-site construction quality inspections.
-    * Oversee the writing of engineering patents and scientific papers.
+    * Conducted on-site construction management (winter quality assurance inspections).
+    * Coordinated and reviewed design and construction drawings.
+    * Prepared engineering patent applications and wrote scientific papers.
 
 * 2017.06 - 2017.08: Intern Structural Engineer
   * China IPPR International Engineering CO., LTD. 
   * Duties included:
-    * Participate in the structural design of a hospital.
-    * Coordinate with the architectural designer to complete structural design of the stairs.
+    * Participated in the structural design of a hospital by AutoCAD.
+    * Coordinated with architectural designers to complete the structural design of staircases.
 
 Skills
 ------
