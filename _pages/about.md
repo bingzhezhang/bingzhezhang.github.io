@@ -20,6 +20,6 @@ Before joining Universität Siegen, I received my Ph.D. in Civil Engineering fro
 * Deep learning and optimization: Deep neural networks, Computer vision, Uncertainty quantification, Interpretable machine learning 
 * Resilience assessment under multi-hazard: Earthquakes, Aging, Frozen Soil  
 
-You can find a detailed overview of my [projects](https://bingzhezhang.github.io/teaching/) or check out my [publications](https://bingzhezhang.github.io/publications/).
-
+<p align="justify">
 Outside of research, I enjoy going to the gym, taking road trips, and spending time with my family. Interestingly, I often find that exercising sparks many exciting ideas.
+</p>
