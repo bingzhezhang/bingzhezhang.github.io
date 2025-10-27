@@ -50,6 +50,16 @@ Professional Experience
     * Participated in the structural design of a hospital by AutoCAD.
     * Coordinated with architectural designers to complete the structural design of staircases.
 
+Invited Talks
+------
+* 2025.08: Workshop on real-time simulations, *Neural Networks-Based Seismic assessment of Highway Bridges*
+  * Universität Siegen
+
+Academic Visits
+------
+* 2025.08: Short-term visit
+  * Tsinghua University
+
 Skills
 ------
 * Programming Languages: Python, MATLAB
