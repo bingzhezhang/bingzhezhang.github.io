@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am currently a Postdoctoral Associate at the Universität Siegen, working in collaboration with [Prof. Okyay Altay](https://www.bau.uni-siegen.de/subdomains/baustatik/mitarbeiter/altay/index.html). My research focuses on developing advanced data-driven methods for real-time hybrid simulations and parameter identification.
 
