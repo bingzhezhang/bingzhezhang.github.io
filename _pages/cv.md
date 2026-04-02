@@ -27,6 +27,14 @@ Research Experience
 * 2018.09 - 2020.08: Research Assistant
   * Research Institute of Highway
 
+Industrial Experience
+------
+* 2024.11 - 2025.01: On-site Construction Engineer
+  * China Communications Construction Company Ltd. 
+
+* 2017.06 - 2017.08: Intern Structural Engineer
+  * China IPPR International Engineering Company Ltd. 
+
 Teaching Experience
 ------
 * Structural Dynamics and Python Coding (Exercise), Summer semester 2025
@@ -34,14 +42,6 @@ Teaching Experience
 
 * Steel Structure Theory and Design (Tutorial), Fall 2016
   * China Agricultural University
-
-Professional Experience
-------
-* 2024.11 - 2025.01: On-site Construction Engineer
-  * China Communications Construction Company Ltd. 
-
-* 2017.06 - 2017.08: Intern Structural Engineer
-  * China IPPR International Engineering Company Ltd. 
 
 Invited Talks
 ------
