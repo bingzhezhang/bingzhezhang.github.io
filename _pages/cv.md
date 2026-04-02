@@ -18,7 +18,7 @@ Education
 
 Research Experience
 ------
-* 2025.03 - Present: Postdoctoral Researcher
+* 2025.03 - 2025.02: Postdoctoral Researcher
   * Universität Siegen
 
 * 2020.09 - 2022.02: Research Assistant
@@ -38,17 +38,10 @@ Teaching Experience
 Professional Experience
 ------
 * 2024.11 - 2025.01: On-site Construction Engineer
-  * CCCC Second Highway Engineering Co., Ltd. 
-  * Duties included:
-    * Conducted on-site construction management (winter quality assurance inspections).
-    * Coordinated and reviewed design and construction drawings.
-    * Prepared engineering patent applications and wrote scientific papers.
+  * China Communications Construction Company Ltd. 
 
 * 2017.06 - 2017.08: Intern Structural Engineer
   * China IPPR International Engineering CO., LTD. 
-  * Duties included:
-    * Participated in the structural design of a hospital by AutoCAD.
-    * Coordinated with architectural designers to complete the structural design of staircases.
 
 Invited Talks
 ------
