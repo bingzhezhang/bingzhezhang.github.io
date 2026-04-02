@@ -18,7 +18,7 @@ Education
 
 Research Experience
 ------
-* 2025.03 - 2025.02: Postdoctoral Researcher
+* 2025.03 - 2026.02: Postdoctoral Researcher
   * Universität Siegen
 
 * 2020.09 - 2022.02: Research Assistant
