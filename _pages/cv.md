@@ -41,7 +41,7 @@ Professional Experience
   * China Communications Construction Company Ltd. 
 
 * 2017.06 - 2017.08: Intern Structural Engineer
-  * China IPPR International Engineering CO., LTD. 
+  * China IPPR International Engineering CO., Ltd. 
 
 Invited Talks
 ------
