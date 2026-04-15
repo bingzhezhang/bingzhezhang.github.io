@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my latest articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
 
-Journal papers:
+Selected journal papers:
 ------
 [1] Zhang, Bingzhe, et al. "Enhancing seismic performance of highway bridges group with laminated rubber bearings via artificial neural networks and multi-objective genetic algorithm." Structures, 2025, 74: 108470.
 
@@ -19,9 +19,7 @@ Journal papers:
 
 [4] Zhang, Bingzhe, et al. "Experimental and Seismic Response Study of Laminated Rubber Bearings Considering Different Friction Interfaces." Buildings 12.10 (2022): 1526.
 
-[5] Guo, Weizuo, et al. "Research on seismic excitation direction of double-deck curved bridges: A probabilistic method based on the random forest algorithm." Structures. Vol. 39. Elsevier, 2022.
-
-[6] Zhang, Bingzhe, et al. "Seismic response analysis and evaluation of laminated rubber bearing supported bridge based on the artificial neural network." Shock and Vibration 2021 (2021): 1-14.
+[5] Zhang, Bingzhe, et al. "Seismic response analysis and evaluation of laminated rubber bearing supported bridge based on the artificial neural network." Shock and Vibration 2021 (2021): 1-14.
 
 Conference papers:
 ------
@@ -29,7 +27,7 @@ Conference papers:
 
 [2] Zhuang, Jinzhao, et al. "Research on the Dynamic Response of Gravity Dam under Blasting Vibration." Journal of Physics: Conference Series. Vol. 2160. No. 1. IOP Publishing, 2022.
 
-Journal papers in Chinese:
+中文论文:
 ------
 [1] 张秉哲, 宋曰建, 王克海等. 不同支座形式对临猗黄河大桥地震响应影响研究[J]. 桥梁建设, 2021, 51(03): 85-92.
 
