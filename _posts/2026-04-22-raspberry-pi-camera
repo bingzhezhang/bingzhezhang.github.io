@@ -1,20 +1,19 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: "Building a Raspberry Pi Home Surveillance System"
+date: 2026-04-22
+categories:
+  - Blog
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Raspberry Pi
+  - Linux
+  - Camera
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+I built a low-cost wireless home surveillance system using Raspberry Pi...
 
-Headings are cool
-======
+## Components
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
+- Raspberry Pi 4
+- USB Camera
+- MotionEye
+- Wi-Fi network
