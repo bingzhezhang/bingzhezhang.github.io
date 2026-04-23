@@ -1,5 +1,5 @@
 ---
-title: "Building a Raspberry Pi Home Surveillance System"
+title: "Building a Raspberry Pi 4 Wireless Home Surveillance System"
 date: 2026-04-22
 categories:
   - Blog
@@ -8,7 +8,6 @@ tags:
   - Linux
   - Camera
 ---
-# Turning a Raspberry Pi 4 into a Wireless Camera: Setup Guide, Lessons Learned, and Real-World Tweaks
 
 I recently converted a Raspberry Pi 4B with an official camera module into a wireless network camera that I can view from my phone. The goal was simple:
 
