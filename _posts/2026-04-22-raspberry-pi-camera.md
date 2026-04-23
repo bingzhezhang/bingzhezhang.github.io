@@ -20,7 +20,7 @@ I recently converted a Raspberry Pi 4B with an official camera module into a wir
 
 This post documents the full process, the mistakes I made, what actually worked, and the final stable configuration.
 
-![Raspberry Pi Photo](../images/Pi1.jpg)
+![Raspberry Pi Photo](/images/Pi1.jpg)
 This is the assembled Raspberry Pi.
 
 ---
@@ -246,7 +246,7 @@ You want:
 active (running)
 ```
 
-![The image from the camera.](../images/Pi2.jpg)
+![The image from the camera.](/images/Pi2.jpg)
 This worked. (Although the quality is a bit...)
 
 ---
