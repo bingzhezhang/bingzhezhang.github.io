@@ -20,7 +20,7 @@ I recently turned a Raspberry Pi 4B with an camera module into a wireless networ
 This post documents the full process, the mistakes I made, what actually worked, and the final stable configuration.
 
 <figure>
-  <img src="/images/Pi1.jpg" alt="Raspberry Pi Photo" width="700">
+  <img src="/images/Pi1.jpg" alt="Raspberry Pi Photo." width="700">
   <figcaption>This is the assembled Raspberry Pi.</figcaption>
 </figure>
 
