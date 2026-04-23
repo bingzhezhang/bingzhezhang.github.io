@@ -252,6 +252,9 @@ active (running)
   <figcaption>This worked. (Although the quality is a bit...) </figcaption>
 </figure>
 
+![The image from the camera.](/images/Pi2.jpg)
+This worked. (Although the quality is a bit...)
+
 ---
 
 # Mistakes I Made (and Lessons Learned)
