@@ -17,11 +17,9 @@ I recently turned a Raspberry Pi 4B with an camera module into a wireless networ
 * Watch from a phone over the local network
 * Keep latency as low as possible
 
-This post documents the full process, the mistakes I made, what actually worked, and the final stable configuration.
+This post documents the full process, the mistakes I made, what actually worked, and the final stable configuration. This is the assembled Raspberry Pi.
 
 ![Raspberry Pi Photo.](/images/Pi1.jpg)
-
-This is the assembled Raspberry Pi.
 
 ---
 
@@ -245,10 +243,8 @@ You want:
 ```text
 active (running)
 ```
-
-![The image from the camera.](/images/Pi2.jpg)
-
 This worked. (Although the quality is a bit...)
+![The image from the camera.](/images/Pi2.jpg)
 
 ---
 
