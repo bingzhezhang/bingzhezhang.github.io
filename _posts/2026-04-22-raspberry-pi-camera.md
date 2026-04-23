@@ -20,12 +20,15 @@ I recently converted a Raspberry Pi 4B with an official camera module into a wir
 
 This post documents the full process, the mistakes I made, what actually worked, and the final stable configuration.
 
+![Raspberry Pi Photo](../images/Pi1.jpg)
+This is the assembled Raspberry Pi.
+
 ---
 
 # Hardware Used
 
 * Raspberry Pi 4 Model B
-* Raspberry Pi Camera Module (OV5647-based module in my case)
+* Raspberry Pi Camera Module (Always disconnect the power before connecting the camera.)
 * microSD card
 * Stable 5V / 3A power supply
 * Wi-Fi network
@@ -39,7 +42,6 @@ I wanted a lightweight wireless camera for:
 
 * door viewer monitoring & room monitoring
 * pet monitoring
-* hardware observation
 * quick remote viewing over Wi-Fi
 
 ---
@@ -84,6 +86,13 @@ yes
 
 Then enter your password.
 
+```bash
+sudo apt update
+sudo apt full-upgrade -y
+sudo reboot
+```
+Upgrade the system. Then restart and reconnect via SSH.
+
 ---
 
 # Step 3: Verify the Camera
@@ -124,11 +133,9 @@ Then on my phone (VLC):
 tcp://Picam.local:8888
 ```
 
-This worked.
-
 ---
 
-# Problem: Latency Was High
+# New Problem: Latency Was High
 
 The stream was usable, but latency was noticeable.
 
@@ -189,26 +196,34 @@ I wanted the camera to start automatically after power-on.
 Create a systemd service:
 
 ```bash
-sudo nano /etc/systemd/system/yicam.service
+sudo nano /etc/systemd/system/Picam.service
 ```
 
 Paste:
 
 ```ini
 [Unit]
-Description=Yicam Low Latency Camera Stream
+Description=Picam Low Latency Camera Stream
 After=network-online.target
 Wants=network-online.target
 
 [Service]
 Type=simple
-User=yicam
+User=Picam
 ExecStart=/usr/bin/rpicam-vid -t 0 -n --width 640 --height 480 --framerate 20 --codec libav --libav-format mpegts --bitrate 1000000 -o tcp://0.0.0.0:8888?listen=1
 Restart=always
 RestartSec=3
 
 [Install]
 WantedBy=multi-user.target
+```
+
+Enter:
+
+```bash
+Ctrl + O
+Enter
+Ctrl + X
 ```
 
 Enable it:
@@ -230,6 +245,9 @@ You want:
 ```text
 active (running)
 ```
+
+![The image from the camera.](../images/Pi2.jpg)
+This worked. (Although the quality is a bit...)
 
 ---
 
@@ -273,11 +291,15 @@ ssh-keygen -R Picam.local
 
 Then reconnect.
 
-## 4. Cheap Power Supplies Cause Strange Problems
+## 4. Do Not Unplug Power Directly.
 
-Use a proper 5V / 3A supply.
+The best method is:
 
-Undervoltage can create random failures.
+```bash
+sudo poweroff
+```
+
+Then wait a few dozen seconds before disconnecting the power.
 
 ---
 
@@ -300,6 +322,10 @@ sudo apt update
 sudo apt full-upgrade -y
 ```
 
+## Last Resort
+
+If the problem still cannot be resolved, you can try reinstalling the system.
+
 ---
 
 # Final Result
@@ -311,18 +337,6 @@ My Raspberry Pi now functions as a lightweight wireless camera:
 * starts streaming automatically
 * viewable from phone instantly
 * low latency
-* no subscription
-* low power usage
-
----
-
-# Would I Recommend It?
-
-Yes—especially if you enjoy building your own tools.
-
-It is inexpensive, flexible, private, and surprisingly capable.
-
-For anyone with a spare Raspberry Pi and camera module, this is a practical weekend project.
 
 ---
 
