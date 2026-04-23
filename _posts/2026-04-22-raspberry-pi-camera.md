@@ -9,7 +9,7 @@ tags:
   - Camera
 ---
 
-I recently converted a Raspberry Pi 4B with an official camera module into a wireless network camera that I can view from my phone. The goal was simple:
+I recently converted a Raspberry Pi 4B with an camera module into a wireless network camera that I can view from my phone. The goal was simple:
 
 * Boot automatically
 * Connect to Wi-Fi
