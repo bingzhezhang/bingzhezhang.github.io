@@ -248,7 +248,7 @@ active (running)
 ```
 
 <figure>
-  <img src="/images/Pi1.jpg" alt="The image from the camera." width="700">
+  <img src="/images/Pi2.jpg" alt="The image from the camera." width="700">
   <figcaption>This worked. (Although the quality is a bit...) </figcaption>
 </figure>
 
