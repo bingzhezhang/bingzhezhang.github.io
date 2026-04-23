@@ -29,7 +29,7 @@ This post documents the full process, the mistakes I made, what actually worked,
 # Hardware Used
 
 * Raspberry Pi 4 Model B
-* Raspberry Pi Camera Module (Always disconnect the power before connecting the camera.)
+* Raspberry Pi Camera Module
 * microSD card
 * Stable 5V / 3A power supply
 * Wi-Fi network
