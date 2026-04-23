@@ -19,8 +19,10 @@ I recently turned a Raspberry Pi 4B with an camera module into a wireless networ
 
 This post documents the full process, the mistakes I made, what actually worked, and the final stable configuration.
 
-![Raspberry Pi Photo](/images/Pi1.jpg)
-This is the assembled Raspberry Pi.
+<figure>
+  <img src="/images/Pi1.jpg" alt="Raspberry Pi Photo" width="700">
+  <figcaption>This is the assembled Raspberry Pi.</figcaption>
+</figure>
 
 ---
 
@@ -245,8 +247,10 @@ You want:
 active (running)
 ```
 
-![The image from the camera.](/images/Pi2.jpg)
-This worked. (Although the quality is a bit...)
+<figure>
+  <img src="/images/Pi1.jpg" alt="The image from the camera." width="700">
+  <figcaption>This worked. (Although the quality is a bit...) </figcaption>
+</figure>
 
 ---
 
