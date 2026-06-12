@@ -19,6 +19,6 @@ This project provides ANSYS APDL scripts for nonlinear analysis of bonded and un
 
 ### 🌉 Tool 3: Highway Bridge Parametric Modeling and Seismic Response Analysis Program
 This project provides an interactive workflow for parametric highway bridge modeling and seismic response analysis.
-* GitHub: [https://github.com/bingzhezhang/Highway-Bridge-Parametric-Modeling-and-Seismic-Response-Analysis-Program](https://github.com/bingzhezhang/Highway-Bridge-Parametric-Modeling-and-Seismic-Response-Analysis-Program))
+* GitHub: [https://github.com/bingzhezhang/Highway-Bridge-Parametric-Modeling-and-Seismic-Response-Analysis-Program](https://github.com/bingzhezhang/Highway-Bridge-Parametric-Modeling-and-Seismic-Response-Analysis-Program)
 
 ---
