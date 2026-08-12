@@ -43,16 +43,6 @@ Teaching Experience
 * Steel Structure Theory and Design (Tutorial), Fall 2016
   * China Agricultural University
 
-Invited Talks
-------
-* 2025.08: Workshop on real-time simulations, *Neural Networks-Based Seismic assessment of Highway Bridges*
-  * Universität Siegen
-
-Academic Visits
-------
-* 2025.08: Short-term visit
-  * Tsinghua University
-
 Skills
 ------
 * Programming Languages: Python, MATLAB
