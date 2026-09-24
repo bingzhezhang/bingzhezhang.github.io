@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ------
-* Ph.D. in Civil Engineering (Bridge Engineering), Southeast University, 2024
 * Visiting Ph.D. student in Civil Engineering Department, McMaster University, 2022 - 2023
+* Ph.D. in Civil Engineering (Bridge Engineering), Southeast University, 2024
 * M.S. in Civil Engineering (Structural Engineering), China Agricultural University, 2018
 * B.S. in Civil Engineering, China Agricultural University, 2016
 
 Research Experience
 ------
 * 2026.08 - Present: Postdoctoral Associate
-  * Université de Sherbrooke
+  * Université de Sherbrooke, Canada
 
 * 2025.03 - 2026.02: Postdoctoral Associate
-  * Universität Siegen
+  * Universität Siegen, Germany
 
 * 2020.09 - 2022.02: Research Assistant
-  * Research Institute of Highway, Southeast University
+  * Research Institute of Highway, Southeast University, China
 
 * 2018.09 - 2020.08: Research Assistant
-  * Research Institute of Highway
+  * Research Institute of Highway, China
 
 Industrial Experience
 ------
