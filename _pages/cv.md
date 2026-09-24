@@ -18,11 +18,14 @@ Education
 
 Research Experience
 ------
-* 2025.03 - 2026.02: Postdoctoral Researcher
+* 2026.08 - Present: Postdoctoral Associate
+  * Université de Sherbrooke
+
+* 2025.03 - 2026.02: Postdoctoral Associate
   * Universität Siegen
 
 * 2020.09 - 2022.02: Research Assistant
-  * Southeast University, Research Institute of Highway
+  * Research Institute of Highway, Southeast University
 
 * 2018.09 - 2020.08: Research Assistant
   * Research Institute of Highway
@@ -46,7 +49,7 @@ Teaching Experience
 Skills
 ------
 * Programming Languages: Python, MATLAB
-* Technological Tools: ANSYS, OpenSEES, SAP2000, AutoCAD
+* Technological Tools: ANSYS, Abaqus, OpenSEES, SAP2000
 
 Awards
 ------
